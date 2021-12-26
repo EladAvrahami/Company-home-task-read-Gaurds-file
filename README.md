@@ -3,6 +3,7 @@ Read from valid file and analyze that data+ first time testing using JUnit<br/>
 #QA #JAVA #TESTS #FILES #JUnit <br/>
 https://junit.org/junit5/docs/current/user-guide/#overview-getting-started-example-projects <br/>
 https://www.jetbrains.com/help/idea/junit.html <br/>
+<br/>
 @TestFactory – denotes a method that's a test factory for dynamic tests<br/>
 @DisplayName – defines a custom display name for a test class or a test method<br/>
 @Nested – denotes that the annotated class is a nested, non-static test class<br/>
